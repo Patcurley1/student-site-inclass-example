@@ -31,3 +31,5 @@ python -m http.server 8000
 ```
 
 ## [License](/LICENSE)
+
+I'd recommend against using anything in this repository. This is all bad ideas. 
